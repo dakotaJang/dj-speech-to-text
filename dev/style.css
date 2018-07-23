@@ -1,0 +1,6 @@
+body,div,h2,ul{margin:0;}
+body{font-family:Verdana,sans-serif;height:100vh;}
+h2{margin-top:3em;text-align:center;}
+dj-speech-to-text{width: 100%;}
+li{text-align:center;}
+div{height:100%;overflow:auto;}
